@@ -1,6 +1,8 @@
 # FileCrawler
 Paralleles Suchen von Dateien und Ordnern, Typanalyse und Dublettencheck
 
+Lauffähig unter Windows 7, 10, 11 64-Bit
+
 FileCrawler – Freeware License
 Copyright (c) 2025 Ulrich Daugs
 
