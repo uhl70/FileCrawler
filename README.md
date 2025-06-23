@@ -1,5 +1,11 @@
 # FileCrawler
-Paralleles Suchen von Dateien und Ordnern, Typanalyse und Dublettencheck
+Liest Verzechnisbäume parallel ein
+Multi Threaded Suchen von Dateien und Ordnern
+Speichern und Laden
+Sorieren der Ergebnisse
+Typanalyse 
+Dublettencheck
+Mengenberechnungen
 
 Lauffähig unter Windows 7, 10, 11 64-Bit
 
