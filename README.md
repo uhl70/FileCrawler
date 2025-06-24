@@ -2,7 +2,7 @@
 Liest Verzechnisbäume parallel ein
 Multi Threaded Suchen von Dateien und Ordnern
 Speichern und Laden
-Sorieren der Ergebnisse
+Sortieren der Ergebnisse
 Typanalyse 
 Dublettencheck
 Mengenberechnungen
