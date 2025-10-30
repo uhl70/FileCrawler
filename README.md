@@ -1,11 +1,13 @@
-# FileCrawler
-Liest Verzechnisbäume parallel ein
-Multi Threaded Suchen von Dateien und Ordnern
-Speichern und Laden
-Sortieren der Ergebnisse
-Typanalyse 
-Dublettencheck
-Mengenberechnungen
+# FileCrawler v1.2.5 Beta
+
+- Paralleles Einlesen von Verzeichnissen, wobei Ordner auch ausgeschlossen werden können
+- Multithreaded Suche auf Dateien/Ordnern
+- Speichern und auch exportieren als CSV um Medien auch offline zu durchforsten
+- Autostart und SysTray Option
+- Mengenfunktionen nun mit absolutem und relativen Vergleich
+- Typanalyse mit Berechnung des prozentualen Speicheranteils
+- Nach wie vor Dublettencheck
+- Alle Einstellungen werden in der INI Datei gespeichert und beim Programmstart berücksichtigt
 
 Lauffähig unter Windows 7, 10, 11 64-Bit
 
@@ -27,4 +29,4 @@ nicht für Schäden, die direkt oder indirekt durch die Nutzung dieser Software 
 Kontakt:
 filecrawler@np-doc.de
 
-Stand: Juni 2025
+Stand: Oktober 2025
