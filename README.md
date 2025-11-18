@@ -1,17 +1,26 @@
-# FileCrawler v1.2.5 Beta
+# FileCrawler v1.3.2 Beta
 
 - Paralleles Einlesen von Verzeichnissen, wobei Ordner auch ausgeschlossen werden können
-- Multithreaded Suche auf Dateien/Ordnern
-- Speichern und auch exportieren als CSV um Medien auch offline zu durchforsten
-- Autostart und SysTray Option
-- Mengenfunktionen nun mit absolutem und relativen Vergleich
-- Typanalyse mit Berechnung des prozentualen Speicheranteils
-- Nach wie vor Dublettencheck
+- Multithreaded Suche von Dateien und/oder Ordnern, Sortieren von Ergebnissen
+- **NEU Dateitypgrupppen** können selbst definiert und als Filter genommen werden
+- **NEU Thumbnail Vorschau** bei STRG+MouseMove und zusätzlich bei Mengenfunktionen SHIFT+MouseMove
+- Berechnung von *Verzeichnisinformationen* Größe, Anzahl Unterordner, Anzahl Dateien
+- Speichern und öffnen von Scans als komprimierten *FCZ Dateien* als Liste oder hierarchischer Ansicht
+- **Typanalyse** mit Speicherplatzbelegung für Dateien aus Scan oder geladener Datei
+- **Dublettencheck** von Dateien aber auch Auffinden identischer Ordner
+- **Mengenfunktionen** basierend auf zwei Quellen (relativer und absoluter Vergleich)
+- **Exportieren als CSV**
+- Autostart und SysTray Option 
 - Alle Einstellungen werden in der INI Datei gespeichert und beim Programmstart berücksichtigt
 
 Lauffähig unter Windows 7, 10, 11 64-Bit
 
-FileCrawler – Freeware License
+Download hier bei
+[GitHub](https://github.com/uhl70/FileCrawler/releases/tag/v1.3.2-Beta)
+oder bei
+[Heise](https://www.heise.de/download/product/filecrawler)
+
+# FileCrawler – Freeware License
 Copyright (c) 2025 Ulrich Daugs
 
 Dieses Programm ist Freeware. Es darf kostenlos genutzt, kopiert und unverändert 
@@ -29,4 +38,4 @@ nicht für Schäden, die direkt oder indirekt durch die Nutzung dieser Software 
 Kontakt:
 filecrawler@np-doc.de
 
-Stand: Oktober 2025
+Stand: November 2025
