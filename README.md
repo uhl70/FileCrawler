@@ -1,6 +1,6 @@
 ![Icon](https://github.com/uhl70/FileCrawler/blob/main/FileCrawlerIconKlein.png)
 
-# FileCrawler v1.3.2 Beta
+# FileCrawler v1.3.3 Beta
 
 - Paralleles Einlesen von Verzeichnissen, wobei Ordner auch ausgeschlossen werden können
 - Multithreaded Suche von Dateien und/oder Ordnern, Sortieren von Ergebnissen
