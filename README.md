@@ -11,7 +11,7 @@
 - **Typanalyse** mit Speicherplatzbelegung für Dateien aus Scan oder geladener Datei
 - **Dublettencheck** von Dateien aber auch Auffinden identischer Ordner
 - **Mengenfunktionen** basierend auf zwei Quellen (relativer und absoluter Vergleich)
-- **Exportieren als CSV**
+- **Exportieren als CSV** nun mit BOM
 - Autostart und SysTray Option 
 - Alle Einstellungen werden in der INI Datei gespeichert und beim Programmstart berücksichtigt
 
