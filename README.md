@@ -18,7 +18,7 @@
 Lauffähig unter Windows 7, 10, 11 64-Bit
 
 Download hier bei
-[GitHub](https://github.com/uhl70/FileCrawler/releases/tag/v1.3.2-Beta)
+[GitHub](https://github.com/uhl70/FileCrawler/releases/tag/v1.3.3-Beta)
 oder bei
 [Heise](https://www.heise.de/download/product/filecrawler)
 
