@@ -1,6 +1,6 @@
 ![Icon](https://github.com/uhl70/FileCrawler/blob/main/FileCrawlerIconKlein.png)
 
-# FileCrawler v1.3.2 Beta
+# FileCrawler v1.3.3 Beta
 
 - Paralleles Einlesen von Verzeichnissen, wobei Ordner auch ausgeschlossen werden können
 - Multithreaded Suche von Dateien und/oder Ordnern, Sortieren von Ergebnissen
@@ -11,14 +11,14 @@
 - **Typanalyse** mit Speicherplatzbelegung für Dateien aus Scan oder geladener Datei
 - **Dublettencheck** von Dateien aber auch Auffinden identischer Ordner
 - **Mengenfunktionen** basierend auf zwei Quellen (relativer und absoluter Vergleich)
-- **Exportieren als CSV**
+- **Exportieren als CSV** nun mit BOM
 - Autostart und SysTray Option 
 - Alle Einstellungen werden in der INI Datei gespeichert und beim Programmstart berücksichtigt
 
 Lauffähig unter Windows 7, 10, 11 64-Bit
 
 Download hier bei
-[GitHub](https://github.com/uhl70/FileCrawler/releases/tag/v1.3.2-Beta)
+[GitHub](https://github.com/uhl70/FileCrawler/releases/tag/v1.3.3-Beta)
 oder bei
 [Heise](https://www.heise.de/download/product/filecrawler)
 
