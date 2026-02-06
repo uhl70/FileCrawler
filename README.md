@@ -1,6 +1,6 @@
 ![Icon](https://github.com/uhl70/FileCrawler/blob/main/FileCrawlerIconKlein.png)
 
-# FileCrawler v1.3.3 Beta
+# FileCrawler v1.3.4 Beta
 
 - Paralleles Einlesen von Verzeichnissen, wobei Ordner auch ausgeschlossen werden können
 - Multithreaded Suche von Dateien und/oder Ordnern, Sortieren von Ergebnissen
@@ -18,12 +18,12 @@
 Lauffähig unter Windows 7, 10, 11 64-Bit
 
 Download hier bei
-[GitHub](https://github.com/uhl70/FileCrawler/releases/tag/v1.3.3-Beta)
+[GitHub](https://github.com/uhl70/FileCrawler/releases/tag/v1.3.4-Beta)
 oder bei
 [Heise](https://www.heise.de/download/product/filecrawler)
 
 # FileCrawler – Freeware License
-Copyright (c) 2025 Ulrich Daugs
+Copyright (c) 2026 Ulrich Daugs
 
 Dieses Programm ist Freeware. Es darf kostenlos genutzt, kopiert und unverändert 
 weitergegeben werden. Die Lizenz ist in der Anwendung und Benutzerhandbuch enthalten.
