@@ -1,6 +1,6 @@
 ![Icon](https://github.com/uhl70/FileCrawler/blob/main/FileCrawlerIconKlein.png)
 
-# FileCrawler v1.3.4 Beta
+# FileCrawler v1.3.5 Beta
 
 - Paralleles Einlesen von Verzeichnissen, wobei Ordner auch ausgeschlossen werden können
 - Multithreaded Suche von Dateien und/oder Ordnern, Sortieren von Ergebnissen
@@ -18,7 +18,7 @@
 Lauffähig unter Windows 7, 10, 11 64-Bit
 
 Download hier bei
-[GitHub](https://github.com/uhl70/FileCrawler/releases/tag/v1.3.4-Beta)
+[GitHub](https://github.com/uhl70/FileCrawler/releases/tag/v1.3.5-Beta)
 oder bei
 [Heise](https://www.heise.de/download/product/filecrawler)
 
@@ -40,4 +40,4 @@ nicht für Schäden, die direkt oder indirekt durch die Nutzung dieser Software 
 Kontakt:
 filecrawler@np-doc.de
 
-Stand: November 2025
+Stand: August 2026
